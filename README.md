@@ -13,3 +13,8 @@ Direct download [**here**](https://github.com/CLIPP3R/Blood-MultiTool/releases/d
 - Token Generator
 - Nitro Generator
 - Much more (comming soon)
+
+# Screenshot ![demo gif](https://cdn.discordapp.com/attachments/790366230287745035/790919060912472094/789575899027996682_1.gif)
+![Bot login](https://cdn.discordapp.com/attachments/790366230287745035/790920777142501396/Screenshot_1.png)
+![Option List](https://cdn.discordapp.com/attachments/790366230287745035/790920777879912478/Screenshot_2.png)
+![Option List](https://cdn.discordapp.com/attachments/790366230287745035/790920779298373662/Screenshot_3.png)
